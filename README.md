@@ -5,7 +5,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,50:FF4500,100:FF6347&height=200&section=header&text=ASITHA%20MD%20V5&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Next-Gen%20WhatsApp%20Bot&descAlignY=51&descSize=20" />
 
 <!-- Main Brand Image -->
-<img src="https://i.ibb.co/Kx8t3tdj/233.jpg" alt="ASITHA MD Logo" width="600" style="border-radius:15px;margin-top:10px;" />
+<img src="https://dbv5.pages.dev/IMG-20250824-WA0027.jpg" alt="ASITHA MD Logo" width="600" style="border-radius:15px;margin-top:10px;" />
 
 <!-- Animated Typing Banner -->
 <p align="center">
